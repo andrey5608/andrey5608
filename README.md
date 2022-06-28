@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/andrey5608?tab=repositories](https://github.com/andrey5608?tab=repositories)
 
-- 📫 How to reach me **andrey5608@gmail.com**
+- 📫 How to reach me [https://andrey5608.github.io/](https://andrey5608.github.io/)
 
-- 📄 Know about my experiences [https://andrey5608.github.io/](https://andrey5608.github.io/)
+- 📄 Know about my experience [https://andrey5608.github.io/](https://andrey5608.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
