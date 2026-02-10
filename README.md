@@ -9,9 +9,9 @@
 
 <h3 align="left">Current Stack</h3>
 
-- TypeScript, Kotlin
-- UI, API automation
-- Performance testing
+- TypeScript, Playwright for UI Automation
+- Kotlin for API automation
+- Gatling for performance testing
 
 <h3 align="left">Experience Highlights</h3>
 
